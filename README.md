@@ -15,7 +15,7 @@ FaithAI works with Python 3, on any platform.
 To get started with using FaithAI, run the following in a virtual environment:
 ```
 pip install -r requirements.txt
-cd FaithAI
+cd api
 python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
