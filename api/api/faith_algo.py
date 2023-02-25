@@ -1,4 +1,5 @@
 from transformers import pipeline, set_seed
+import logging
 
 # Set up the pipeline for generating text using GPT-2
 generator = pipeline('text-generation', model='gpt2')
@@ -17,8 +18,4 @@ def chat():
     response = generator(user_input, max_length=100, num_return_sequences=1)[0]['generated_text']
     
     # Print the response
-    print("ChatGPT: " + response)
-
-# Start the chat loop
-while True:
-    chat()
+    return response
