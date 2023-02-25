@@ -7,7 +7,7 @@ FaithAI is open source GPT-2 based chatbot which gives suggestion on various top
 - [x] Complete control API access
 - [x] Based on famous GPT-2 based model
 - [x] Fast and easy to use wih database containing your past responses.
-- [] Voice support to access FaithAI
+- [ ] Voice support to access FaithAI
 
 ## 👉 Getting Started
 FaithAI works with Python 3, on any platform.
