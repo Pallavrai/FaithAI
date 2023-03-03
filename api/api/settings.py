@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-smn5&9#-0tm9^0#-eo^zu4$4(#$lum+1!@wu0=m)da%@zotgfa
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
+CSRF_TRUSTED_ORIGINS=['https://pallavrai-reimagined-robot-g5xx7645xrv39r75-8000.preview.app.github.dev']
 
 # Application definition
 
