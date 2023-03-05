@@ -1,0 +1,14 @@
+[1:20:13 PM]: Spawning /home/codespace/flutter/bin/flutter with args ["run","--machine","--start-paused","-d","web-server","--web-server-debug-protocol","ws","--web-server-debug-backend-protocol","ws","--web-server-debug-injected-client-protocol","ws","--web-allow-expose-url","--devtools-server-address","http://127.0.0.1:9100/","--target","lib/main.dart"]
+[1:20:13 PM]: ..  in /workspaces/FathAI/clients/faithai
+[1:20:13 PM]: ..  with {"toolEnv":{"FLUTTER_HOST":"VSCode","PUB_ENVIRONMENT":"vscode.dart-code"}}
+[1:20:13 PM]: PID: 7823
+[1:20:14 PM]: <== [{"event":"daemon.connected","params":{"version":"0.6.1","pid":7831}}]
+[1:20:14 PM]: <== [{"event":"app.start","params":{"appId":"897bec6e-0b5d-41ae-b99d-a21505fdd97e","deviceId":"web-server","directory":"/workspaces/FathAI/clients/faithai","supportsRestart":true,"launchMode":"run"}}]
+[1:20:14 PM]: <== Launching lib/main.dart on Web Server in debug mode...
+[1:20:14 PM]: <== [{"id":"1","method":"app.exposeUrl","params":{"url":"ws://127.0.0.1:39737/$debug"}}]
+[1:20:14 PM]: <== [{"event":"app.progress","params":{"appId":"897bec6e-0b5d-41ae-b99d-a21505fdd97e","id":"0","progressId":null,"message":"Waiting for connection from debug service on Web Server...","finished":false}}]
+[1:20:15 PM]: ==> [{"id":"1","result":{"url":"wss://pallavrai-reimagined-robot-g5xx7645xrv39r75-39737.preview.app.github.dev/$debug"}}]
+[1:20:37 PM]: <== [{"event":"app.progress","params":{"appId":"897bec6e-0b5d-41ae-b99d-a21505fdd97e","id":"0","progressId":null,"finished":true}}]
+[1:20:37 PM]: <== Waiting for connection from Dart debug extension at http://localhost:34919
+[1:20:37 PM]: <== The web-server device requires the Dart Debug Chrome extension for debugging. Consider using the Chrome or Edge devices for an improved development workflow.
+[1:20:37 PM]: <== [{"event":"app.webLaunchUrl","params":{"url":"http://localhost:34919","launched":false}}]
