@@ -12,3 +12,4 @@
 [1:20:37 PM]: <== Waiting for connection from Dart debug extension at http://localhost:34919
 [1:20:37 PM]: <== The web-server device requires the Dart Debug Chrome extension for debugging. Consider using the Chrome or Edge devices for an improved development workflow.
 [1:20:37 PM]: <== [{"event":"app.webLaunchUrl","params":{"url":"http://localhost:34919","launched":false}}]
+[1:22:53 PM]: Process /home/codespace/flutter/bin/flutter terminated! null, SIGINT

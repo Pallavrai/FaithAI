@@ -5,7 +5,7 @@ Flutter extension: 3.60.0 (not activated)
 
 App: Visual Studio Code
 Remote: codespaces
-Version: 1.76.0
+Version: 1.76.1
 Platform: linux
 
 HTTP_PROXY: undefined
@@ -14,91 +14,91 @@ NO_PROXY: undefined
 Logging Categories:
     General
 
-Sun Mar 05 2023 [13:13:28 GMT+0000 (Coordinated Universal Time)] Log file started
-[1:13:28 PM] [General] [Info] Searching for SDKs...
-[1:13:28 PM] [General] [Info] Environment PATH:
-[1:13:28 PM] [General] [Info]     /vscode/bin/linux-x64/92da9481c0904c6adfe372c12da3b7748d74bdcb/bin/remote-cli
-[1:13:28 PM] [General] [Info]     /home/codespace/flutter/bin
-[1:13:28 PM] [General] [Info]     /usr/local/sbin
-[1:13:28 PM] [General] [Info]     /usr/local/bin
-[1:13:28 PM] [General] [Info]     /usr/sbin
-[1:13:28 PM] [General] [Info]     /usr/bin
-[1:13:28 PM] [General] [Info]     /sbin
-[1:13:28 PM] [General] [Info]     /bin
-[1:13:28 PM] [General] [Info] Took 196ms to search for projects (5 levels)
-[1:13:28 PM] [General] [Info] Took 10ms to filter out excluded projects (0 exclusion rules)
-[1:13:28 PM] [General] [Info] Found Flutter project at /workspaces/FathAI/clients/faithai:
+Tue Mar 14 2023 [08:13:34 GMT+0000 (Coordinated Universal Time)] Log file started
+[8:13:34 AM] [General] [Info] Searching for SDKs...
+[8:13:34 AM] [General] [Info] Environment PATH:
+[8:13:34 AM] [General] [Info]     /vscode/bin/linux-x64/5e805b79fcb6ba4c2d23712967df89a089da575b/bin/remote-cli
+[8:13:34 AM] [General] [Info]     /home/codespace/flutter/bin
+[8:13:34 AM] [General] [Info]     /usr/local/sbin
+[8:13:34 AM] [General] [Info]     /usr/local/bin
+[8:13:34 AM] [General] [Info]     /usr/sbin
+[8:13:34 AM] [General] [Info]     /usr/bin
+[8:13:34 AM] [General] [Info]     /sbin
+[8:13:34 AM] [General] [Info]     /bin
+[8:13:34 AM] [General] [Info] Took 91ms to search for projects (5 levels)
+[8:13:34 AM] [General] [Info] Took 9ms to filter out excluded projects (0 exclusion rules)
+[8:13:34 AM] [General] [Info] Found Flutter project at /workspaces/FathAI/clients/faithai:
 			Mobile? true
 			Web? false
 			Create Trigger? false
 			Flutter Repo? false
-[1:13:28 PM] [General] [Info] Searching for flutter
-[1:13:28 PM] [General] [Info]     Looking for flutter in:
-[1:13:28 PM] [General] [Info]         /workspaces/FathAI/clients/faithai
-[1:13:28 PM] [General] [Info]         /workspaces/FathAI/clients/faithai/bin
-[1:13:28 PM] [General] [Info]         /home/codespace/flutter/bin/
-[1:13:28 PM] [General] [Info]         /workspaces/FathAI/clients/faithai/.flutter
-[1:13:28 PM] [General] [Info]         /workspaces/FathAI/clients/faithai/.flutter/bin
-[1:13:28 PM] [General] [Info]         /workspaces/FathAI/clients/faithai/vendor/flutter
-[1:13:28 PM] [General] [Info]         /workspaces/FathAI/clients/faithai/vendor/flutter/bin
-[1:13:28 PM] [General] [Info]         /root/snap/flutter/common/flutter
-[1:13:28 PM] [General] [Info]         /root/snap/flutter/common/flutter/bin
-[1:13:28 PM] [General] [Info]         /root/flutter-sdk
-[1:13:28 PM] [General] [Info]         /root/flutter-sdk/bin
-[1:13:28 PM] [General] [Info]         /google/flutter
-[1:13:28 PM] [General] [Info]         /google/flutter/bin
-[1:13:28 PM] [General] [Info]         /vscode/bin/linux-x64/92da9481c0904c6adfe372c12da3b7748d74bdcb/bin/remote-cli
-[1:13:28 PM] [General] [Info]         /vscode/bin/linux-x64/92da9481c0904c6adfe372c12da3b7748d74bdcb/bin/remote-cli/bin
-[1:13:28 PM] [General] [Info]         /home/codespace/flutter/bin
-[1:13:28 PM] [General] [Info]         /usr/local/sbin
-[1:13:28 PM] [General] [Info]         /usr/local/bin
-[1:13:28 PM] [General] [Info]         /usr/sbin
-[1:13:28 PM] [General] [Info]         /usr/bin
-[1:13:28 PM] [General] [Info]         /sbin
-[1:13:28 PM] [General] [Info]         /bin
-[1:13:28 PM] [General] [Info]     Found at:
-[1:13:28 PM] [General] [Info]         /home/codespace/flutter/bin/
-[1:13:28 PM] [General] [Info]         /home/codespace/flutter/bin
-[1:13:28 PM] [General] [Info]     Candidate paths to be post-filtered:
-[1:13:28 PM] [General] [Info]         /home/codespace/flutter
-[1:13:28 PM] [General] [Info]         /home/codespace/flutter
-[1:13:28 PM] [General] [Info]     Found at /home/codespace/flutter
-[1:13:28 PM] [General] [Info]     Returning SDK path /home/codespace/flutter for flutter
-[1:13:28 PM] [General] [Info] Searching for dart
-[1:13:28 PM] [General] [Info]     Looking for dart in:
-[1:13:28 PM] [General] [Info]         /home/codespace/flutter/bin/cache/dart-sdk
-[1:13:28 PM] [General] [Info]         /home/codespace/flutter/bin/cache/dart-sdk/bin
-[1:13:28 PM] [General] [Info]         /vscode/bin/linux-x64/92da9481c0904c6adfe372c12da3b7748d74bdcb/bin/remote-cli
-[1:13:28 PM] [General] [Info]         /vscode/bin/linux-x64/92da9481c0904c6adfe372c12da3b7748d74bdcb/bin/remote-cli/bin
-[1:13:28 PM] [General] [Info]         /home/codespace/flutter/bin
-[1:13:28 PM] [General] [Info]         /usr/local/sbin
-[1:13:28 PM] [General] [Info]         /usr/local/bin
-[1:13:28 PM] [General] [Info]         /usr/sbin
-[1:13:28 PM] [General] [Info]         /usr/bin
-[1:13:28 PM] [General] [Info]         /sbin
-[1:13:28 PM] [General] [Info]         /bin
-[1:13:28 PM] [General] [Info]         /home/codespace/flutter/bin/cache/dart-sdk
-[1:13:28 PM] [General] [Info]         /home/codespace/flutter/bin/cache/dart-sdk/bin
-[1:13:28 PM] [General] [Info]     Found at:
-[1:13:28 PM] [General] [Info]         /home/codespace/flutter/bin/cache/dart-sdk/bin
-[1:13:28 PM] [General] [Info]         /home/codespace/flutter/bin
-[1:13:28 PM] [General] [Info]         /home/codespace/flutter/bin/cache/dart-sdk/bin
-[1:13:28 PM] [General] [Info]     Candidate paths to be post-filtered:
-[1:13:28 PM] [General] [Info]         /home/codespace/flutter/bin/cache/dart-sdk
-[1:13:28 PM] [General] [Info]         /home/codespace/flutter
-[1:13:28 PM] [General] [Info]         /home/codespace/flutter/bin/cache/dart-sdk
-[1:13:28 PM] [General] [Info]     Found at /home/codespace/flutter/bin/cache/dart-sdk
-[1:13:28 PM] [General] [Info]     Returning SDK path /home/codespace/flutter/bin/cache/dart-sdk for dart
-[1:13:28 PM] [General] [Info] Generated random number 35 for new experiment 'sdkDaps'. Experiment is enabled for <= 10
-[1:13:28 PM] [General] [Info] Experiment 'sdkDaps' does not apply and will not be activated
-[1:13:28 PM] [General] [Info] !! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+[8:13:34 AM] [General] [Info] Searching for flutter
+[8:13:34 AM] [General] [Info]     Looking for flutter in:
+[8:13:34 AM] [General] [Info]         /workspaces/FathAI/clients/faithai
+[8:13:34 AM] [General] [Info]         /workspaces/FathAI/clients/faithai/bin
+[8:13:34 AM] [General] [Info]         /home/codespace/flutter/bin/
+[8:13:34 AM] [General] [Info]         /workspaces/FathAI/clients/faithai/.flutter
+[8:13:34 AM] [General] [Info]         /workspaces/FathAI/clients/faithai/.flutter/bin
+[8:13:34 AM] [General] [Info]         /workspaces/FathAI/clients/faithai/vendor/flutter
+[8:13:34 AM] [General] [Info]         /workspaces/FathAI/clients/faithai/vendor/flutter/bin
+[8:13:34 AM] [General] [Info]         /root/snap/flutter/common/flutter
+[8:13:34 AM] [General] [Info]         /root/snap/flutter/common/flutter/bin
+[8:13:34 AM] [General] [Info]         /root/flutter-sdk
+[8:13:34 AM] [General] [Info]         /root/flutter-sdk/bin
+[8:13:34 AM] [General] [Info]         /google/flutter
+[8:13:34 AM] [General] [Info]         /google/flutter/bin
+[8:13:34 AM] [General] [Info]         /vscode/bin/linux-x64/5e805b79fcb6ba4c2d23712967df89a089da575b/bin/remote-cli
+[8:13:34 AM] [General] [Info]         /vscode/bin/linux-x64/5e805b79fcb6ba4c2d23712967df89a089da575b/bin/remote-cli/bin
+[8:13:34 AM] [General] [Info]         /home/codespace/flutter/bin
+[8:13:34 AM] [General] [Info]         /usr/local/sbin
+[8:13:34 AM] [General] [Info]         /usr/local/bin
+[8:13:34 AM] [General] [Info]         /usr/sbin
+[8:13:34 AM] [General] [Info]         /usr/bin
+[8:13:34 AM] [General] [Info]         /sbin
+[8:13:34 AM] [General] [Info]         /bin
+[8:13:34 AM] [General] [Info]     Found at:
+[8:13:34 AM] [General] [Info]         /home/codespace/flutter/bin/
+[8:13:34 AM] [General] [Info]         /home/codespace/flutter/bin
+[8:13:34 AM] [General] [Info]     Candidate paths to be post-filtered:
+[8:13:34 AM] [General] [Info]         /home/codespace/flutter
+[8:13:34 AM] [General] [Info]         /home/codespace/flutter
+[8:13:34 AM] [General] [Info]     Found at /home/codespace/flutter
+[8:13:34 AM] [General] [Info]     Returning SDK path /home/codespace/flutter for flutter
+[8:13:34 AM] [General] [Info] Searching for dart
+[8:13:34 AM] [General] [Info]     Looking for dart in:
+[8:13:34 AM] [General] [Info]         /home/codespace/flutter/bin/cache/dart-sdk
+[8:13:34 AM] [General] [Info]         /home/codespace/flutter/bin/cache/dart-sdk/bin
+[8:13:34 AM] [General] [Info]         /vscode/bin/linux-x64/5e805b79fcb6ba4c2d23712967df89a089da575b/bin/remote-cli
+[8:13:34 AM] [General] [Info]         /vscode/bin/linux-x64/5e805b79fcb6ba4c2d23712967df89a089da575b/bin/remote-cli/bin
+[8:13:34 AM] [General] [Info]         /home/codespace/flutter/bin
+[8:13:34 AM] [General] [Info]         /usr/local/sbin
+[8:13:34 AM] [General] [Info]         /usr/local/bin
+[8:13:34 AM] [General] [Info]         /usr/sbin
+[8:13:34 AM] [General] [Info]         /usr/bin
+[8:13:34 AM] [General] [Info]         /sbin
+[8:13:34 AM] [General] [Info]         /bin
+[8:13:34 AM] [General] [Info]         /home/codespace/flutter/bin/cache/dart-sdk
+[8:13:34 AM] [General] [Info]         /home/codespace/flutter/bin/cache/dart-sdk/bin
+[8:13:34 AM] [General] [Info]     Found at:
+[8:13:34 AM] [General] [Info]         /home/codespace/flutter/bin/cache/dart-sdk/bin
+[8:13:34 AM] [General] [Info]         /home/codespace/flutter/bin
+[8:13:34 AM] [General] [Info]         /home/codespace/flutter/bin/cache/dart-sdk/bin
+[8:13:34 AM] [General] [Info]     Candidate paths to be post-filtered:
+[8:13:34 AM] [General] [Info]         /home/codespace/flutter/bin/cache/dart-sdk
+[8:13:34 AM] [General] [Info]         /home/codespace/flutter
+[8:13:34 AM] [General] [Info]         /home/codespace/flutter/bin/cache/dart-sdk
+[8:13:34 AM] [General] [Info]     Found at /home/codespace/flutter/bin/cache/dart-sdk
+[8:13:34 AM] [General] [Info]     Returning SDK path /home/codespace/flutter/bin/cache/dart-sdk for dart
+[8:13:34 AM] [General] [Info] Experiment random number is 35 for experiment 'sdkDaps'. Experiment is enabled for <= 10
+[8:13:34 AM] [General] [Info] Experiment 'sdkDaps' does not apply and will not be activated
+[8:13:34 AM] [General] [Info] !! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
 
 Dart Code extension: 3.60.1
 Flutter extension: 3.60.0 (not activated)
 
 App: Visual Studio Code
 Remote: codespaces
-Version: 1.76.0
+Version: 1.76.1
 Platform: linux
 
 Workspace type: Flutter
@@ -114,19 +114,19 @@ Flutter SDK:
 
 HTTP_PROXY: undefined
 NO_PROXY: undefined
-[1:13:28 PM] [General] [Info] Returning cached results for project search
-[1:13:28 PM] [General] [Info] Activating Flutter extension for Flutter project...
-[1:13:28 PM] [General] [Info] Extension:Startup timing: 390ms
-[1:13:28 PM] [General] [Info] Version last used for Pub is 3.0.0-290.0.dev (3.0.0), current is 3.0.0-290.0.dev (3.0.0)
-[1:13:28 PM] [General] [Info] Found 0 folders requiring "pub get" or "pub upgrade":
-[1:13:28 PM] [General] [Info] !! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+[8:13:34 AM] [General] [Info] Returning cached results for project search
+[8:13:34 AM] [General] [Info] Activating Flutter extension for Flutter project...
+[8:13:34 AM] [General] [Info] Extension:Startup timing: 274ms
+[8:13:34 AM] [General] [Info] Version last used for Pub is 3.0.0-290.0.dev (3.0.0), current is 3.0.0-290.0.dev (3.0.0)
+[8:13:34 AM] [General] [Info] Found 0 folders requiring "pub get" or "pub upgrade":
+[8:13:36 AM] [General] [Info] !! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
 
 Dart Code extension: 3.60.1
 Flutter extension: 3.60.0 (activated)
 
 App: Visual Studio Code
 Remote: codespaces
-Version: 1.76.0
+Version: 1.76.1
 Platform: linux
 
 Workspace type: Flutter
@@ -142,90 +142,13 @@ Flutter SDK:
 
 HTTP_PROXY: undefined
 NO_PROXY: undefined
-[1:13:30 PM] [General] [Info] Loaded 20000 from file:///root/.vscode-remote/data/User/globalStorage/dart-code.dart-code/package_cache.json
-[1:13:32 PM] [General] [Info] Caching Pub package names from https://pub.dev...
-[1:13:32 PM] [General] [Info] Analyzer:Startup timing: 3966ms
-[1:13:35 PM] [General] [Info] Saved 20000 in file:///root/.vscode-remote/data/User/globalStorage/dart-code.dart-code/package_cache.json
-[1:13:35 PM] [General] [Info] Analyzer:FirstAnalysis timing: 2258ms
-[1:13:36 PM] [General] [Info] Returning cached results for project search
-[1:13:36 PM] [General] [Info] Checking 1 projects for supported platforms
-[1:13:36 PM] [General] [Info] Returning cached promise for getSupportedPlatforms()
-[1:13:36 PM] [General] [Info] Supported platforms for the workspace are linux, macos, windows, ios, android, web
-[1:16:05 PM] [General] [Info] Returning cached results for project search
-[1:16:31 PM] [General] [Info] Returning cached results for project search
-[1:16:31 PM] [General] [Info] Checking 1 projects for supported platforms
-[1:16:31 PM] [General] [Info] Supported platforms for the workspace are linux, macos, windows, ios, android, web
-[1:16:33 PM] [General] [Info] Saving web-server as preferred device
-[1:20:13 PM] [General] [Info] Starting debug session...
-[1:20:13 PM] [General] [Info]     workspace: /workspaces/FathAI
-[1:20:13 PM] [General] [Info]     program  : /workspaces/FathAI/clients/faithai/lib/main.dart
-[1:20:13 PM] [General] [Info] Setting cwd based on likely entry point: /workspaces/FathAI
-[1:20:13 PM] [General] [Info] Using workspace as cwd: /workspaces/FathAI
-[1:20:13 PM] [General] [Info] Found better project root to use as cwd: /workspaces/FathAI/clients/faithai
-[1:20:13 PM] [General] [Info] Detected launch project as Flutter
-[1:20:13 PM] [General] [Info] Using Flutter debug adapter for this session
-[1:20:13 PM] [General] [Info] Getting DevTools server address to pass to Flutter...
-[1:20:13 PM] [General] [Info] Checking for errors before launching
-[1:20:13 PM] [General] [Info] Debug session starting...
-    {
-        "name": "Dart ",
-        "noDebug": true,
-        "request": "launch",
-        "type": "dart",
-        "groupId": 0,
-        "program": "/workspaces/FathAI/clients/faithai/lib/main.dart",
-        "dartCodeDebugSessionID": "session-72954",
-        "cwd": "/workspaces/FathAI/clients/faithai",
-        "deviceId": "web-server",
-        "deviceName": "Web Server (web-javascript)",
-        "toolEnv": {
-            "FLUTTER_HOST": "VSCode",
-            "PUB_ENVIRONMENT": "vscode.dart-code"
-        },
-        "sendLogsToClient": false,
-        "sendCustomProgressEvents": true,
-        "additionalProjectPaths": [
-            "/workspaces/FathAI"
-        ],
-        "args": [],
-        "vmAdditionalArgs": [],
-        "toolArgs": [
-            "-d",
-            "web-server",
-            "--web-server-debug-protocol",
-            "ws",
-            "--web-server-debug-backend-protocol",
-            "ws",
-            "--web-server-debug-injected-client-protocol",
-            "ws",
-            "--web-allow-expose-url",
-            "--devtools-server-address",
-            "http://127.0.0.1:9100/"
-        ],
-        "vmServicePort": 0,
-        "dartSdkPath": "/home/codespace/flutter/bin/cache/dart-sdk",
-        "vmServiceLogFile": "/workspaces/FathAI/logs/observatory.txt",
-        "maxLogLineLength": 2000,
-        "debugSdkLibraries": false,
-        "debugExternalPackageLibraries": false,
-        "showDartDeveloperLogs": true,
-        "evaluateGettersInDebugViews": true,
-        "evaluateToStringInDebugViews": true,
-        "flutterSdkPath": "/home/codespace/flutter",
-        "useInspectorNotificationsForWidgetErrors": true,
-        "flutterRunLogFile": "/workspaces/FathAI/logs/flutter_run.txt",
-        "showMemoryUsage": false,
-        "debuggerType": 2
-    }
-[1:20:13 PM] [General] [Info] Using flutter debugger for Flutter
-[1:20:13 PM] [General] [Info] SDK DAP setting is false, set by sdkDaps experiment
-[1:20:13 PM] [General] [Info] Running debugger via node with /root/.vscode-remote/extensions/dart-code.dart-code-3.60.1/out/dist/debug.js    flutter
-[1:20:13 PM] [General] [Info] Did not find session 91177ec9-4833-48e7-86aa-6846cde8e23a to handle dart.progressStart. There were 0 sessions:
-[1:20:13 PM] [General] [Info] Event will be queued and processed when the session start event fires
-[1:20:14 PM] [General] [Info] Processing delayed event dart.progressStart for session 91177ec9-4833-48e7-86aa-6846cde8e23a
-[1:20:14 PM] [General] [Info] Exposing URL: ws://127.0.0.1:39737/%24debug
-[1:20:14 PM] [General] [Info] Mapping URI: http://127.0.0.1:39737/%24debug
-[1:20:14 PM] [General] [Info] Mapped URI: https://pallavrai-reimagined-robot-g5xx7645xrv39r75-39737.preview.app.github.dev/%24debug
-[1:20:14 PM] [General] [Info] Mapped URL: https://pallavrai-reimagined-robot-g5xx7645xrv39r75-39737.preview.app.github.dev/$debug
-[1:20:14 PM] [General] [Info] Final URL: wss://pallavrai-reimagined-robot-g5xx7645xrv39r75-39737.preview.app.github.dev/$debug
-[1:20:37 PM] [General] [Info] Opening external URL: http://localhost:34919
+[8:13:36 AM] [General] [Info] Loaded 20000 from file:///root/.vscode-remote/data/User/globalStorage/dart-code.dart-code/package_cache.json
+[8:13:36 AM] [General] [Info] Caching Pub package names from https://pub.dev...
+[8:13:38 AM] [General] [Info] Analyzer:Startup timing: 3551ms
+[8:13:39 AM] [General] [Info] Saved 20000 in file:///root/.vscode-remote/data/User/globalStorage/dart-code.dart-code/package_cache.json
+[8:13:41 AM] [General] [Info] Analyzer:FirstAnalysis timing: 2202ms
+[8:13:44 AM] [General] [Info] Returning cached results for project search
+[8:13:44 AM] [General] [Info] Checking 1 projects for supported platforms
+[8:13:44 AM] [General] [Info] Returning cached promise for getSupportedPlatforms()
+[8:13:44 AM] [General] [Info] Supported platforms for the workspace are linux, macos, windows, ios, android, web
+[8:14:25 AM] [General] [Info] Returning cached results for project search
